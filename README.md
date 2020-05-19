@@ -6,13 +6,13 @@
 ## Installation
 
 ```bash
-yarn add docusaurus-plugin-auto-sidebars
+yarn add docusaurus-auto-sidebars
 ```
 
 or
 
 ```bash
-npm install docusaurus-plugin-auto-sidebars --save
+npm install docusaurus-auto-sidebars --save
 ```
 
 ## Usage
